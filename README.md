@@ -24,6 +24,20 @@ It calculates your exact age in **years, months, and days** based on your date o
 3. The result is displayed instantly on screen.
 
 ---
+age-calculator/
+│
+├── index.html            # Main page
+│
+├── css/
+│   └── style.css         # Styling for the age calculator
+│
+├── js/
+│   └── script.js         # Age calculation logic
+│
+├── assets/
+│   └── images/           # Any icons or images (optional)
+│
+└── README.md             # Project documentation (optional)
 
 ## 🖥️ Technologies Used
 
