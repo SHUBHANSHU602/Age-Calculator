@@ -44,3 +44,5 @@ age-calculator/
 - **HTML5** – structure of the app  
 - **CSS3** – styling and layout  
 - **JavaScript (ES6)** – logic for age calculation and date handling
+
+- Feel free to contribute to this repo :-
